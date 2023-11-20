@@ -10,9 +10,9 @@ Hago cosas, rompo cosas, intento aprender algo por el camino.
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
+           |   |                                         |    |
+           |   |                                         |    |
            |   |  C:\> _                                 |    |
-           |   |                                         |    |
-           |   |                                         |    |
            |   |                                         |    |
            |   |                                         |    |
            |   |                                         |    |
