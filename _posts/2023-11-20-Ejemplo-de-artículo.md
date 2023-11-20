@@ -4,4 +4,4 @@ published: true
 ---
 # Esto es una prueba.
 
-![Imagen](./The_Enigma_Machine.png)
+![Imagen](https://github.com/FlatlineROM/FlatlineROM.github.io/blob/master/_posts/The_Enigma_Machine.png)
