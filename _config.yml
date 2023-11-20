@@ -5,7 +5,7 @@ author:
   email: "FlatlineROM@proton.me"
   url: "https://flatlinerom.github.io/"
 
-baseurl: /
+baseurl: /index.html
 
 source: .
 destination: ./_site
