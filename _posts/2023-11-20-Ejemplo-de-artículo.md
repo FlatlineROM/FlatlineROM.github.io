@@ -4,4 +4,4 @@ published: true
 ---
 # Esto es una prueba.
 
-![Imagen](The_Enigma_Machine.png)
+![Imagen](./The_Enigma_Machine.png)
