@@ -1,5 +1,5 @@
 ---
-title: Mi primer artículo ![Prueba de imagen](https://raw.githubusercontent.com/FlatlineROM/FlatlineROM.github.io/master/ROM.png)
+title: Mi primer artículo
 published: true
 ---
 # Esto es una prueba.
