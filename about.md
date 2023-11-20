@@ -8,9 +8,9 @@ Hago cosas, rompo cosas, intento aprender algo por el camino.
 ```
               ___
              |   /
-             | |===( )   //////         >>> hit any key to continue
-             |_|   |||  | o o|
-                    ||| ( c  )                  ____
+             | |===( )=  //////         >>> hit any key to continue
+             |_|   |||  |*> ~|
+                    ||| (  D )                  ____
                      ||| \= /                  ||   \_
                       ||||||                   ||     |
                       ||||||                ...||__/|-"
