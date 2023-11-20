@@ -4,4 +4,4 @@ published: true
 ---
 # Esto es una prueba.
 
-![Imagen](https://raw.githubusercontent.com/FlatlineROM/FlatlineROM.github.io/master/_posts/images/RetroArch.jpg)
+![Prueba de imagen](https://raw.githubusercontent.com/FlatlineROM/FlatlineROM.github.io/master/_posts/images/RetroArch.jpg)
