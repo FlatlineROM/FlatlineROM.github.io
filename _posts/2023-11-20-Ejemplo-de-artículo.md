@@ -1,6 +1,6 @@
 ---
 title: Mi primer artículo
-published: false
+published: true
 ---
 # Esto es una prueba.
 
